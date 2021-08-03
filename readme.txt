@@ -1,4 +1,4 @@
-i am rocinante program - i store, edit, query, navigate geo data
+i am rocinante program
 
 my language is clojure
 my runtime is jvm
