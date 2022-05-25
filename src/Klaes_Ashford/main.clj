@@ -278,10 +278,11 @@
       :ws-recv| (:ops| root)})
 
     (ops-process {})
-    
-    (Klaes-Ashford.beans/process {})
 
     (Wichita.java.io/make-parents (:db-data-dirpath root))
+    (Klaes-Ashford.beans/process {})
+
+    
     (let [config {:store {:backend :file :path (:db-data-dirpath root)}
                   :keep-history? true
                   :name "main"}
