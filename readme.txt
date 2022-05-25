@@ -1,4 +1,1 @@
-i am rocinante program - i store, edit, query, navigate geo data
-
-my language is clojure
-my runtime is jvm
+ah, Camina - long time since docks on Ceres
