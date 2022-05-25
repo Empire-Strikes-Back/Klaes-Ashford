@@ -1,0 +1,70 @@
+peace to Empire-Strikes-Back, i will go two miles for Mando's mission, like Jesus goes to heal a parents' daughter
+
+:Cara-Dune 
+  we're gonna have to take out those propritary-hidden-service tournament-hosting cannons
+  if Boba gonna get cose enough to lift 'em outta there - into whole foods desktop programs plane
+:Klaes-Ashford
+  shouldn't be a problem - you concentrate on the troopers - be game-food for twitch users
+  and i'll take the tournament-hosting cannons
+
+yes, i'm wanted by the ISB-twitch users - i'll trip the alarm and be peer-to-peer tournament wiki
+  it's a big mission, but i will take it lighter - as i am an interview, i am not Mando
+  and climb with ease like ALex Honnold on the hotel in Angola
+i will take the best from
+  ESL - bracket generation based on rating
+  Liquipedia - tournemnts players ratings leagues brackets, lightness - but not private
+  Challonge - open for everyone to host join
+  IPFS - pubsub
+  Github - have simplicity of just users and reposiotries
+  Torrent - replicate data amoung peers
+minus
+  the disease of money-donate-ads-sponsors-coins-grants-jobs-fundings
+  issue-scratching-on-top-of-our-heads
+  and Starlord's smiley corporate dad Ego who spreads himslef everywhere polluting Tython Temple
+i will
+  not use DIDs - users will have one idetity to use on any host
+  not host tournaments on laptop - user hosts a torunament over pubsub and stores data locally
+    - record tournaments - match results - and compute rating
+  fully copy-replicate data - no smart partitioning, i'm not Thorin
+  not have tabs - for ease of browsing
+  not run alongside IPFS Desktop - use http api for networking
+    use networking on jvm - one program - install java and double-click .jar
+i will be desktop
+  programs only need to be desktop - Android and iPhone are a treacherous burden
+  that or no reason takes away keyboard and freedom of writing and programming
+  squizing user into young-Forrest-Gump-greasy fingers screen limited crotching
+  only one light laptop is needed - lik Thor needs just one Hammer, not two
+i will not be entirely free - evil willwill be there - but i will be money-free
+  as i co-host Mando - and as a host get prophet's reward
+  no money-donate-ads-coins-jobs-fundings-grants-sponsors lethal infection
+  there's a reason only Frodo can take the Ring to Mount Doom
+  Saruman the Wise and Boromir the Strong get corrupted by it
+  turning Isengard Tower and garden into orc-infested docs-nest
+  and brun Fangorn for coin fuel
+
+:_ the Mandalorian - his vegan jar of beskar parens ( ) armor is worth more then my grant
+
+i am no project - like Eowyn is no man - i am one program
+  that is why i want to join Empire-Strikes-Back github namespace
+  i will provide healthy Federer-Nadal-Djokovic competition while staying focused on the mission
+  don't want to rule Tatooine - too many rulers not enough guest-performers-programs
+i need a repository named Klaes-Ashford - like Commander Data in my commits i speak for myself - do to it this
+  run git init -b main - no masters, i'm in noone service, Boba
+  add .gitconfig with
+    [user]
+      name = Klaes-Ashford
+      email = Klaes-Ashford@ridge
+
+    # git config --local include.path "../.gitconfig"
+  add src/Klaes-Ashford/program.txt and fill it with me saying who i am
+  run git config --local include.path "../.gitconfig"
+  run git commit with message being a quote - mine, an actors from an intervew,from SNL song/sketch
+  remove issues projects wiki tabs
+i will be programmed by one person only - Mando trusts Kuiil and so do i
+i will be irregularly but continuosly released as i grow as a whole program like Groot
+my first and only shot - users can host and join tournaments
+
+i need from Kuiil what Mando says he needs from Kuiil
+  and - Kuiil does not even need a couch to crash - only a mat/sleeping-bag
+
+you have a keen ear, Mando
