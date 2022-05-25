@@ -54,7 +54,7 @@
         _ (when-not (Deep-Thought.api/database-exists? config-databases)
             (Deep-Thought.api/create-database config-databases))
         conn-databases (Deep-Thought.api/connect config-databases)
-        schema-databases (read-string (slurp (Wichita.java.io/resource "Klaes-Ashford/schema.edn")))]
+        schema-databases (read-string (slurp (Wichita.java.io/resource "Klaes_Ashford/schema.edn")))]
     (let []
       (Deep-Thought.api/transact conn-databases schema-databases)
       (->>
